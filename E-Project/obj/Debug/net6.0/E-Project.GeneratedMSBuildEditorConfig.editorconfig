@@ -1,0 +1,423 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = E_Project
+build_property.RootNamespace = E_Project
+build_property.ProjectDir = C:\Users\asp.APTECHNK1\Downloads\Give-Aid(NGO)eProject\E-Project\E-Project\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\asp.APTECHNK1\Downloads\Give-Aid(NGO)eProject\E-Project\E-Project
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWxDaGFuZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxFeHRlcm5hbExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/Lockout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2Nrb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGgyZmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGhSZWNvdmVyeUNvZGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/Login_Front.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbl9Gcm9udC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/Logout_Front.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXRfRnJvbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGVsZXRlUGVyc29uYWxEYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGlzYWJsZTJmYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRG93bmxvYWRQZXJzb25hbERhdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/Manage/Email.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW5hYmxlQXV0aGVudGljYXRvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRXh0ZXJuYWxMb2dpbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcR2VuZXJhdGVSZWNvdmVyeUNvZGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUGVyc29uYWxEYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUmVzZXRBdXRoZW50aWNhdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2V0UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2hvd1JlY292ZXJ5Q29kZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcVHdvRmFjdG9yQXV0aGVudGljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1N0YXR1c01lc3NhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/Register_Front.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlcl9Gcm9udC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfU3RhdHVzTWVzc2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/ContactUs/AddContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFVzXEFkZENvbnRhY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/ContactUs/AddContact_Front.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFVzXEFkZENvbnRhY3RfRnJvbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/ContactUs/DeleteContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFVzXERlbGV0ZUNvbnRhY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/ContactUs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/ContactUs/ViewContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFVzXFZpZXdDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Donations/AddDonation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRpb25zXEFkZERvbmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Donations/DeleteDonation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRpb25zXERlbGV0ZURvbmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Donations/DonationDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRpb25zXERvbmF0aW9uRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Donations/EditDonations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRpb25zXEVkaXREb25hdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Donations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Donations/ViewDonations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRpb25zXFZpZXdEb25hdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Donations/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRpb25zXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Home/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Home/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/NGOs/AddNGOs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTkdPc1xBZGROR09zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/NGOs/DeleteNGOs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTkdPc1xEZWxldGVOR09zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/NGOs/EditNGOs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTkdPc1xFZGl0TkdPcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/NGOs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTkdPc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/NGOs/ViewNGOs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTkdPc1xWaWV3TkdPcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/NGOs/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTkdPc1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Partners/AddPartners.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydG5lcnNcQWRkUGFydG5lcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Partners/DeletePartners.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydG5lcnNcRGVsZXRlUGFydG5lcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Partners/DetailsPartners.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydG5lcnNcRGV0YWlsc1BhcnRuZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Partners/EditPartners.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydG5lcnNcRWRpdFBhcnRuZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Partners/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydG5lcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Partners/ViewPartners.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydG5lcnNcVmlld1BhcnRuZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Partners/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydG5lcnNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Programmes/AddProgrammes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZ3JhbW1lc1xBZGRQcm9ncmFtbWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Programmes/DeleteProgrammes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZ3JhbW1lc1xEZWxldGVQcm9ncmFtbWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Programmes/DetailsProgrammes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZ3JhbW1lc1xEZXRhaWxzUHJvZ3JhbW1lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Programmes/EditProgrammes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZ3JhbW1lc1xFZGl0UHJvZ3JhbW1lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Programmes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZ3JhbW1lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Programmes/ViewProgrammes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZ3JhbW1lc1xWaWV3UHJvZ3JhbW1lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Programmes/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZ3JhbW1lc1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Shared/_LoginPartial_Front.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWxfRnJvbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Web/about.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXGFib3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Web/achievements.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXGFjaGlldmVtZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Web/contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXGNvbnRhY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Web/Donations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXERvbmF0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Web/DonationView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXERvbmF0aW9uVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Web/gallery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXGdhbGxlcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Web/HelpCenter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXEhlbHBDZW50ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Web/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Web/main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXG1haW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Web/mission.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXG1pc3Npb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Web/single.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXHNpbmdsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Web/supporters.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXHN1cHBvcnRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Web/team.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXHRlYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Web/terms.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXHRlcm1zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Web/testimonial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXHRlc3RpbW9uaWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Web/what_we_do.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXHdoYXRfd2VfZG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Shared/_Layout_Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-c5vnv75fsa
+
+[C:/Users/asp.APTECHNK1/Downloads/Give-Aid(NGO)eProject/E-Project/E-Project/Views/Shared/_Layout_Front.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfRnJvbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-67bpt4k83j

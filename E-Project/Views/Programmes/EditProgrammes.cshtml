@@ -1,0 +1,54 @@
+﻿@model E_Project.Models.Data.Programmes
+
+@{
+    ViewData["Title"] = "EditProgrammes";
+}
+
+<h1 class ="text-center fst-italic">EditProgrammes</h1>
+
+<h4 class="text-center fw-normal text-muted">Programmes</h4>
+<hr />
+<div class="row justify-content-center">
+    <div class="col-md-4">
+        <form asp-action="EditProgrammes" asp-controller="Programmes" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="ProgrammeID" />
+            <div class="form-group">
+                <label asp-for="ProgrammeName" class="control-label"></label>
+                <input asp-for="ProgrammeName" class="form-control" />
+                <span asp-validation-for="ProgrammeName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProgStartDate" class="control-label"></label>
+                <input asp-for="ProgStartDate" class="form-control" />
+                <span asp-validation-for="ProgStartDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProgEndDate" class="control-label"></label>
+                <input asp-for="ProgEndDate" class="form-control" />
+                <span asp-validation-for="ProgEndDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProgrammeFile" class="control-label"></label>
+                <input asp-for="ProgrammeFile" class="form-control" />
+                <span asp-validation-for="ProgrammeFile" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <img src="~/Content/Images/@Html.DisplayFor(model => model.ProgrammeIMG)" width="90" height="90" class="rounded-circle" alt="..." />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary mt-2" /> |
+                <a asp-action="Index" class="btn btn-danger mt-2">Back to List</a>
+            </div>
+            <div>
+               
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

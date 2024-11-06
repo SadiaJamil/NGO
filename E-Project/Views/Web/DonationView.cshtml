@@ -1,0 +1,53 @@
+﻿@model IEnumerable<E_Project.Models.Data.Donations>
+
+@{
+    ViewData["Title"] = "DonationView";
+}
+
+<h1>DonationView</h1>
+
+@* <p>
+    <a asp-action="Create">Create New</a>
+</p> *@
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Causes)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DAmount)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Causes)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DAmount)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.DonorId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.DonorId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.DonorId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,82 @@
+﻿@model IEnumerable<E_Project.Models.Data.Partners>
+
+@{
+    ViewData["Title"] = "ViewPartners";
+    // Layout = "~/Views/Shared/_Layout_Front.cshtml";
+
+}
+
+<h1 class="text-center fst-italic ">ViewPartners</h1>
+
+@if (TempData["success"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>@TempData["success"]</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+@if (TempData["delete_success"] != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        <strong>@TempData["delete_success"]</strong>
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+@* <p>
+    <a asp-action="AddPartners" asp-controller="Partners" class="btn btn-success table-bordered">Add New Parnter</a>
+</p> *@
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PartnerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PartnerEmail)
+            </th>
+           @*  <th>
+                @Html.DisplayNameFor(model => model.PartnerContact)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PartnershipSDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PartnershipEDate)
+            </th> *@
+            <th>
+                @Html.DisplayNameFor(model => model.PartnerLOGO)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PartnerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PartnerEmail)
+            </td>
+            @* <td>
+                @Html.DisplayFor(modelItem => item.PartnerContact)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PartnershipSDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PartnershipEDate)
+            </td> *@
+            <td>
+                <img src="~/Content/Images/@Html.DisplayFor(modelItem => item.PartnerLOGO)" width="120" height="80" class="rounded-circle" alt="..." />
+            </td>
+            <td>
+                    <a asp-action="EditPartners" asp-controller="Partners" asp-route-id="@item.PartnerId" class="btn btn-success mt-2">Edit</a> |
+                    <a asp-action="DetailsPartners" asp-controller="Partners" asp-route-id="@item.PartnerId" class="btn btn-primary mt-2">Details</a> |
+                    <a asp-action="DeletePartners" asp-controller="Partners" asp-route-id="@item.PartnerId" class="btn btn-danger mt-2">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

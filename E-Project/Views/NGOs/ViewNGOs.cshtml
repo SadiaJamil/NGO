@@ -1,0 +1,62 @@
+﻿@model IEnumerable<E_Project.Models.Data.AssociatedNGOs>
+
+@{
+    ViewData["Title"] = "ViewNGOs";
+}
+
+<h1 class="text-center fst-italic ">ViewNGOs</h1>
+
+@if (TempData["success"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>@TempData["success"]</strong>
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+@if (TempData["delete_success"] != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        <strong>@TempData["delete_success"]</strong>
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+@* <p>
+    <a asp-action="AddNGOs" asp-controller="NGOs" class="btn btn-success table-bordered">Add New NGO</a>
+</p> *@
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NGOName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NGOEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NGOContact)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NGOName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NGOEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NGOContact)
+            </td>
+            <td>
+                    <a asp-action="EditNGOs" asp-route-id="@item.NGOId" class="btn btn-success mt-2">Edit</a> |
+                @* <a asp-action="Details" asp-route-id="@item.NGOId">Details</a>  *@
+                    <a asp-action="DeleteNGOs" asp-route-id="@item.NGOId" class="btn btn-danger mt-2">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

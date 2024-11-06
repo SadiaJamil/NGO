@@ -1,0 +1,45 @@
+﻿@model E_Project.Models.Data.ContactUs
+
+@{
+    ViewData["Title"] = "AddContact";
+    Layout = "~/Views/Shared/_Layout_Front.cshtml";
+}
+
+<h1 class="text-center fst-italic">AddContact</h1>
+
+<h4 class ="text-center fw-normal text-muted">ContactUs</h4>
+<hr />
+<div class="row justify-content-center">
+    <div class="col-md-4">
+        <form asp-action="AddContact" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CName" class="control-label"></label>
+                <input asp-for="CName" class="form-control" required />
+                <span asp-validation-for="CName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CEmail" class="control-label"></label>
+                <input asp-for="CEmail" class="form-control" required />
+                <span asp-validation-for="CEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CMessage" class="control-label"></label>
+                <textarea asp-for="CMessage" class="form-control" rows="5" placeholder="Enter Your Message" required></textarea>
+                <span asp-validation-for="CMessage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary mt-4 w-100">Send Message</button>
+            </div>
+            <div>
+                <a asp-action="Index" asp-controller="Web" class="btn btn-primary mt-2">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

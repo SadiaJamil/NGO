@@ -1,0 +1,79 @@
+﻿@using E_Project.Models.Data
+@model E_Project.Models.Data.Donations
+
+@{
+    ViewData["Title"] = "AddDonation";
+    Layout = "~/Views/Shared/_Layout_Front.cshtml";
+}
+
+<h1 class="text-center fst-italic">AddDonation</h1>
+
+<h4 class="text-center fw-normal text-muted">Donations</h4>
+<hr />
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <form asp-action="AddDonation" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="DName" class="control-label"></label>
+                <input asp-for="DName" class="form-control" />
+                <span asp-validation-for="DName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DEmail" class="control-label"></label>
+                <input asp-for="DEmail" class="form-control" />
+                <span asp-validation-for="DEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Causes" class="control-label"></label>            
+                <span asp-validation-for="Causes" class="text-danger"></span>
+                <select asp-for="Causes" class="form-control" asp-items="@Html.GetEnumSelectList<Cause>()">
+                    <option value="">--Select Any Cause--</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="DAmount" class="control-label"></label>               
+                <span asp-validation-for="DAmount" class="text-danger"></span>
+                <select asp-for="DAmount" class="form-control" asp-items="@Html.GetEnumSelectList<Amount>()">
+                    <option value="">--Select Amount--</option>
+                </select>
+            </div>
+            <h1>Transaction Details</h1>
+            <hr />
+            <div class="form-group">
+                <label asp-for="CardHolderName" class="control-label"></label>
+                <input asp-for="CardHolderName" class="form-control" />
+                <span asp-validation-for="CardHolderName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PMethods" class="control-label"></label>
+                <span asp-validation-for="PMethods" class="text-danger"></span>
+                <select asp-for="PMethods" class="form-control" asp-items="@Html.GetEnumSelectList<PMethod>()">
+                    <option value="">--Select Payment Method--</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="CardNumber" class="control-label"></label>
+                <input asp-for="CardNumber" class="form-control" />
+                <span asp-validation-for="CardNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CardCVV" class="control-label"></label>
+                <input asp-for="CardCVV" class="form-control" />
+                <span asp-validation-for="CardCVV" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Donate" class="btn btn-success mt-2" />
+            </div>
+            <div>
+                <a asp-action="Index" class="btn btn-primary mt-2">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

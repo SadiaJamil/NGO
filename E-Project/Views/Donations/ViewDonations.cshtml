@@ -1,0 +1,91 @@
+﻿@model IEnumerable<E_Project.Models.Data.Donations>
+
+@{
+    ViewData["Title"] = "ViewDonations";
+    Layout = "~/Views/Shared/_Layout_Admin.cshtml";
+}
+
+<h1>ViewDonations</h1>
+@if (TempData["success"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>@TempData["success"]</strong>
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+@if (TempData["delete_success"] != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        <strong>@TempData["delete_success"]</strong>
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+@* <p>
+    <a asp-action="Create">Create New</a>
+</p> *@
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Causes)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DAmount)
+            </th>
+          @*   <th>
+                @Html.DisplayNameFor(model => model.CardHolderName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PMethods)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CardNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CardCVV)
+            </th> *@
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Causes)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DAmount)
+            </td>
+           @*  <td>
+                @Html.DisplayFor(modelItem => item.CardHolderName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PMethods)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CardNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CardCVV)
+            </td> *@
+            <td>
+                    <a asp-action="EditDonations" asp-route-id="@item.DonorId" class="btn btn-success mt-2">Edit</a> |
+                    <a asp-action="DonationDetails" asp-controller="Donations" asp-route-id="@item.DonorId" class="btn btn-primary mt-2">Details</a> |
+                    <a asp-action="DeleteDonation" asp-route-id="@item.DonorId" class="btn btn-danger mt-2">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

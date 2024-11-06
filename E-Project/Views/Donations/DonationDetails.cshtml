@@ -1,0 +1,66 @@
+﻿@model E_Project.Models.Data.Donations
+
+@{
+    ViewData["Title"] = "DonationDetails";
+}
+
+<h1>DonationDetails</h1>
+
+<div>
+    <h4>Donations</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DEmail)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DEmail)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Causes)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Causes)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DAmount)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DAmount)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CardHolderName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CardHolderName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PMethods)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PMethods)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CardNumber)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CardNumber)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CardCVV)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CardCVV)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="EditDonations" asp-route-id="@Model.DonorId" class="btn btn-success mt-2">Edit</a> |
+    <a asp-action="ViewDonations" asp-controller="Donations" class="btn btn-primary mt-2">Back to List</a>
+</div>

@@ -1,0 +1,63 @@
+﻿@model IEnumerable<E_Project.Models.Data.ContactUs>
+
+@{
+    ViewData["Title"] = "ViewContact";
+    Layout = "~/Views/Shared/_Layout_Admin.cshtml";
+}
+
+
+<h1 class="text-center fst-italic ">ViewContact</h1>
+@if (TempData["success"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>@TempData["success"]</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+@if (TempData["delete_success"] != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        <strong>@TempData["delete_success"]</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+@* <p>
+    <a asp-action="Create">Create New</a>
+</p *@
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CMessage)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CMessage)
+            </td>
+            <td>
+              @*   <a asp-action="Edit" asp-route-id="@item.ContactId">Edit</a> | *@
+               @*  <a asp-action="Details" asp-route-id="@item.ContactId">Details</a> | *@
+                    <a asp-action="DeleteContact" asp-route-id="@item.ContactId" class="btn btn-danger mt-2">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

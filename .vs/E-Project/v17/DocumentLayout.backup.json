@@ -1,0 +1,591 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\views\\web\\achievements.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\views\\web\\achievements.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\views\\web\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\views\\web\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\views\\web\\supporters.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\views\\web\\supporters.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\views\\web\\team.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\views\\web\\team.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\views\\web\\what_we_do.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\views\\web\\what_we_do.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\views\\web\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\views\\web\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\views\\web\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\views\\web\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\views\\web\\mission.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\views\\web\\mission.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\views\\shared\\_layout_front.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\views\\shared\\_layout_front.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\views\\shared\\_layout_admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\views\\shared\\_layout_admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\views\\programmes\\viewprogrammes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\views\\programmes\\viewprogrammes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\views\\programmes\\addprogrammes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\views\\programmes\\addprogrammes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\views\\partners\\viewpartners.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\views\\partners\\viewpartners.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\views\\ngos\\viewngos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\views\\ngos\\viewngos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\views\\donations\\viewdonations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\views\\donations\\viewdonations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\views\\contactus\\viewcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\views\\contactus\\viewcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\controllers\\programmescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\controllers\\programmescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\controllers\\partnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\controllers\\partnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\controllers\\ngoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\controllers\\ngoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\controllers\\contactuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\controllers\\contactuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\controllers\\donationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\controllers\\donationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\views\\donations\\donationdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\views\\donations\\donationdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\views\\donations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\views\\donations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\views\\ngos\\addngos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\views\\ngos\\addngos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\views\\web\\terms.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\views\\web\\terms.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\views\\web\\helpcenter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\views\\web\\helpcenter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\models\\data\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\models\\data\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|c:\\users\\lenovo ultra book\\downloads\\e-project\\e-project\\views\\web\\testimonial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F30A96A-BEA9-47B0-AD7E-3EEF0586934E}|E-Project\\E-Project.csproj|solutionrelative:e-project\\views\\web\\testimonial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "achievements.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Web\\achievements.cshtml",
+              "RelativeDocumentMoniker": "E-Project\\Views\\Web\\achievements.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Web\\achievements.cshtml",
+              "RelativeToolTip": "E-Project\\Views\\Web\\achievements.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T16:10:27.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "supporters.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Web\\supporters.cshtml",
+              "RelativeDocumentMoniker": "E-Project\\Views\\Web\\supporters.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Web\\supporters.cshtml",
+              "RelativeToolTip": "E-Project\\Views\\Web\\supporters.cshtml",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T11:23:53.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "what_we_do.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Web\\what_we_do.cshtml",
+              "RelativeDocumentMoniker": "E-Project\\Views\\Web\\what_we_do.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Web\\what_we_do.cshtml",
+              "RelativeToolTip": "E-Project\\Views\\Web\\what_we_do.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T14:39:29.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gallery.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Web\\gallery.cshtml",
+              "RelativeDocumentMoniker": "E-Project\\Views\\Web\\gallery.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Web\\gallery.cshtml",
+              "RelativeToolTip": "E-Project\\Views\\Web\\gallery.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T11:17:09.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "team.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Web\\team.cshtml",
+              "RelativeDocumentMoniker": "E-Project\\Views\\Web\\team.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Web\\team.cshtml",
+              "RelativeToolTip": "E-Project\\Views\\Web\\team.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T11:23:32.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "about.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Web\\about.cshtml",
+              "RelativeDocumentMoniker": "E-Project\\Views\\Web\\about.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Web\\about.cshtml",
+              "RelativeToolTip": "E-Project\\Views\\Web\\about.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T11:45:51.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Web\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Project\\Views\\Web\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Web\\Index.cshtml",
+              "RelativeToolTip": "E-Project\\Views\\Web\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T11:23:49.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "mission.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Web\\mission.cshtml",
+              "RelativeDocumentMoniker": "E-Project\\Views\\Web\\mission.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Web\\mission.cshtml",
+              "RelativeToolTip": "E-Project\\Views\\Web\\mission.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T10:11:32.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout_Front.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Shared\\_Layout_Front.cshtml",
+              "RelativeDocumentMoniker": "E-Project\\Views\\Shared\\_Layout_Front.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Shared\\_Layout_Front.cshtml",
+              "RelativeToolTip": "E-Project\\Views\\Shared\\_Layout_Front.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAJAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T11:32:53.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Home\\index.cshtml",
+              "RelativeDocumentMoniker": "E-Project\\Views\\Home\\index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Home\\index.cshtml",
+              "RelativeToolTip": "E-Project\\Views\\Home\\index.cshtml",
+              "ViewState": "AgIAACIBAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T08:01:46.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "E-Project\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "E-Project\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:44:32.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout_Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Shared\\_Layout_Admin.cshtml",
+              "RelativeDocumentMoniker": "E-Project\\Views\\Shared\\_Layout_Admin.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Shared\\_Layout_Admin.cshtml",
+              "RelativeToolTip": "E-Project\\Views\\Shared\\_Layout_Admin.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAL8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T06:21:53.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddProgrammes.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Programmes\\AddProgrammes.cshtml",
+              "RelativeDocumentMoniker": "E-Project\\Views\\Programmes\\AddProgrammes.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Programmes\\AddProgrammes.cshtml",
+              "RelativeToolTip": "E-Project\\Views\\Programmes\\AddProgrammes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T09:53:39.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "E-Project\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "E-Project\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T06:20:46.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ViewProgrammes.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Programmes\\ViewProgrammes.cshtml",
+              "RelativeDocumentMoniker": "E-Project\\Views\\Programmes\\ViewProgrammes.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Programmes\\ViewProgrammes.cshtml",
+              "RelativeToolTip": "E-Project\\Views\\Programmes\\ViewProgrammes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T09:15:03.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ViewPartners.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Partners\\ViewPartners.cshtml",
+              "RelativeDocumentMoniker": "E-Project\\Views\\Partners\\ViewPartners.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Partners\\ViewPartners.cshtml",
+              "RelativeToolTip": "E-Project\\Views\\Partners\\ViewPartners.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T08:29:57.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ViewNGOs.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\NGOs\\ViewNGOs.cshtml",
+              "RelativeDocumentMoniker": "E-Project\\Views\\NGOs\\ViewNGOs.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\NGOs\\ViewNGOs.cshtml",
+              "RelativeToolTip": "E-Project\\Views\\NGOs\\ViewNGOs.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T09:14:26.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ViewDonations.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Donations\\ViewDonations.cshtml",
+              "RelativeDocumentMoniker": "E-Project\\Views\\Donations\\ViewDonations.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Donations\\ViewDonations.cshtml",
+              "RelativeToolTip": "E-Project\\Views\\Donations\\ViewDonations.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T09:14:42.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ViewContact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\ContactUs\\ViewContact.cshtml",
+              "RelativeDocumentMoniker": "E-Project\\Views\\ContactUs\\ViewContact.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\ContactUs\\ViewContact.cshtml",
+              "RelativeToolTip": "E-Project\\Views\\ContactUs\\ViewContact.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T09:14:35.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProgrammesController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Controllers\\ProgrammesController.cs",
+              "RelativeDocumentMoniker": "E-Project\\Controllers\\ProgrammesController.cs",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Controllers\\ProgrammesController.cs",
+              "RelativeToolTip": "E-Project\\Controllers\\ProgrammesController.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAAKQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:41:00.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PartnersController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Controllers\\PartnersController.cs",
+              "RelativeDocumentMoniker": "E-Project\\Controllers\\PartnersController.cs",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Controllers\\PartnersController.cs",
+              "RelativeToolTip": "E-Project\\Controllers\\PartnersController.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAgwKkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:39:11.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NGOsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Controllers\\NGOsController.cs",
+              "RelativeDocumentMoniker": "E-Project\\Controllers\\NGOsController.cs",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Controllers\\NGOsController.cs",
+              "RelativeToolTip": "E-Project\\Controllers\\NGOsController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowFAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:15:12.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DonationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Controllers\\DonationsController.cs",
+              "RelativeDocumentMoniker": "E-Project\\Controllers\\DonationsController.cs",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Controllers\\DonationsController.cs",
+              "RelativeToolTip": "E-Project\\Controllers\\DonationsController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAqwE8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:15:36.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DonationDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Donations\\DonationDetails.cshtml",
+              "RelativeDocumentMoniker": "E-Project\\Views\\Donations\\DonationDetails.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Donations\\DonationDetails.cshtml",
+              "RelativeToolTip": "E-Project\\Views\\Donations\\DonationDetails.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T09:34:06.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ContactUsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Controllers\\ContactUsController.cs",
+              "RelativeDocumentMoniker": "E-Project\\Controllers\\ContactUsController.cs",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Controllers\\ContactUsController.cs",
+              "RelativeToolTip": "E-Project\\Controllers\\ContactUsController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:34:47.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "E-Project\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "E-Project\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T09:25:16.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Donations\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Project\\Views\\Donations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Donations\\Index.cshtml",
+              "RelativeToolTip": "E-Project\\Views\\Donations\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T09:16:19.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddNGOs.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\NGOs\\AddNGOs.cshtml",
+              "RelativeDocumentMoniker": "E-Project\\Views\\NGOs\\AddNGOs.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\NGOs\\AddNGOs.cshtml",
+              "RelativeToolTip": "E-Project\\Views\\NGOs\\AddNGOs.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T09:13:58.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "terms.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Web\\terms.cshtml",
+              "RelativeDocumentMoniker": "E-Project\\Views\\Web\\terms.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Web\\terms.cshtml",
+              "RelativeToolTip": "E-Project\\Views\\Web\\terms.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T11:23:26.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "E-Project\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "E-Project\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAQwH0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T06:23:09.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Program.cs",
+              "RelativeDocumentMoniker": "E-Project\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Program.cs",
+              "RelativeToolTip": "E-Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:21:01.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Models\\Data\\SD.cs",
+              "RelativeDocumentMoniker": "E-Project\\Models\\Data\\SD.cs",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Models\\Data\\SD.cs",
+              "RelativeToolTip": "E-Project\\Models\\Data\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:34:25.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HelpCenter.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Web\\HelpCenter.cshtml",
+              "RelativeDocumentMoniker": "E-Project\\Views\\Web\\HelpCenter.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Web\\HelpCenter.cshtml",
+              "RelativeToolTip": "E-Project\\Views\\Web\\HelpCenter.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T11:23:44.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\appsettings.json",
+              "RelativeDocumentMoniker": "E-Project\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\appsettings.json",
+              "RelativeToolTip": "E-Project\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-10T06:19:45.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "testimonial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Web\\testimonial.cshtml",
+              "RelativeDocumentMoniker": "E-Project\\Views\\Web\\testimonial.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo Ultra Book\\Downloads\\E-Project\\E-Project\\Views\\Web\\testimonial.cshtml",
+              "RelativeToolTip": "E-Project\\Views\\Web\\testimonial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T11:11:45.587Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

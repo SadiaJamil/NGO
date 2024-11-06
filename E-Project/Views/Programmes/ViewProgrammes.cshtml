@@ -1,0 +1,68 @@
+﻿@model IEnumerable<E_Project.Models.Data.Programmes>
+
+@{
+    ViewData["Title"] = "ViewProgrammes";
+}
+
+<h1 class="text-center fst-italic ">ViewProgrammes</h1>
+
+@if (TempData["success"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>@TempData["success"]</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+@if (TempData["delete_success"] != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        <strong>@TempData["delete_success"]</strong>
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+@* <p>
+    <a asp-action="AddProgramme" asp-controller="Programme" class="btn btn-success table-bordered">Add New Program</a>
+</p>  *@
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProgrammeName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProgStartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProgEndDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProgrammeIMG)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProgrammeName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProgStartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProgEndDate)
+            </td>
+            <td>
+                 <img src="~/Content/Images/@Html.DisplayFor(modelItem => item.ProgrammeIMG)" width="90" height="90" class="rounded-circle" alt="..." />
+            </td>
+            <td>
+                    <a asp-action="EditProgrammes" asp-controller="Programmes" asp-route-id="@item.ProgrammeID" class="btn btn-success mt-2">Edit</a> |
+                  @*   <a asp-action="DetailsProgrammes" asp-controller="Programmes" asp-route-id="@item.ProgrammeID" class="btn btn-primary mt-2">Details</a> | *@
+                    <a asp-action="DeleteProgrammes" asp-controller="Programmes" asp-route-id="@item.ProgrammeID" class="btn btn-danger mt-2">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
